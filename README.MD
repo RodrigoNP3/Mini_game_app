@@ -47,3 +47,45 @@ git clone https://github.com/RodrigoNP3/Mini_game_app.git
   </a></td>
 
   
+
+<table>
+<thead>
+<tr>
+<th align="center">Main Screen</th>
+<th align="center">Game Screen</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+  
+<td align="center">
+  <a target="_blank" rel="" href="images/main_screen_2.jpg">
+        <img src="images/main_screen_2.jpg" alt="Css Logo" with="400" height="175"/>
+
+  </a></td>
+  
+<td align="center">
+  <a target="_blank" rel="" href="images/game_screen_2.jpg">
+        <img src="images/game_screen_2.jpg" alt="Css Logo" with="400" height="175"/>
+
+  </a></td>
+  
+
+<table>
+<thead>
+<tr>
+<th align="center">Game Over Screen</th>
+
+</tr>
+</thead>
+<tbody>
+<tr>
+  
+<td align="center">
+  <a target="_blank" rel="" href="images/game_over_screen_2.jpg">
+        <img src="images/game_over_screen_2.jpg" alt="Css Logo" with="400" height="175"/>
+
+  </a></td>
+  
